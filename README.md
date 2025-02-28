@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Skills](https://skillicons.dev/icons?i=py,html,cs,c,powershell,latex,mysql,css,nginx,windows,kali,linux,cloudflare,visualstudio,sublime,replit,azure,jenkins,figma,ps,ai,arduino,ableton)](https://skillicons.dev)
-![C++](https://skillicons.dev/icons?i=cpp)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,html,cs,c,powershell,latex,mysql,css,nginx,windows,kali,linux,cloudflare,visualstudio,sublime,replit,azure,jenkins,figma,ps,ai,arduino,ableton)](https://skillicons.dev)
+
