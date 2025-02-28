@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,cs,c,powershell,latex,mysql,css,nginx,windows,kali,linux,cloudflare,visualstudio,sublime,replit,azure,jenkins,figma,ps,ai,arduino,ableton)](https://skillicons.dev)
 
-[![C++](https://skillicons.dev/icons?i=cpp)][C++]
+[!(https://skillicons.dev/icons?i=cpp)[C++]][C++]
